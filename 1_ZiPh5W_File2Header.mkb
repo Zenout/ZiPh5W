@@ -1,0 +1,12 @@
+# ZiPh5W (Zenouts iPhone 5 Workaround) - (C)2012 Jez 'Zenout' Hammond - www.jezhammond.com | www.zenout.co.uk
+# [FileToHeader]
+
+files
+{
+	1_ZiPh5W_File2Header.cpp
+}
+
+options
+{
+	s3e-data-dir="./data1"
+}
